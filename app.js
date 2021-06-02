@@ -3,6 +3,7 @@ const app = express();
 const port = 3030;
 const path = require("path");
 const views = path.join(__dirname,"views")
+app.use(express.static("public"));
 console.log(__dirname);
 
 
