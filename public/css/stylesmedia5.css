@@ -1,0 +1,357 @@
+@media  (max-width: 500px){
+    *{
+        margin: 0;
+        
+    }
+    
+    /* header */
+    
+    body{
+        background-image: url("/img/fondo2.jpeg");
+   background-size: cover ;
+  background-attachment: fixed;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+    
+    }
+    li{
+        width: 100%;
+        justify-content: flex-start;
+
+    
+    
+    }
+    nav{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    ul{
+        
+        list-style-type: none;
+        text-decoration: none;
+        text-align: center;
+        border-style: inset;
+        height: 3rem;
+        font-size: 1rem;
+        background-color: rgb(146, 255, 56);
+        border-radius: 2rem;
+        justify-content: flex-end;
+        padding: 0 !important;
+        
+
+    
+    }
+    .titulo{
+        margin: auto !important;
+        color: rgb(255, 230, 0);
+        text-decoration: wavy;
+        background-color: violet;
+        border-radius: 1rem;
+        border: 2px inset black;
+        font-size: 1rem;
+    }
+    .ivan{
+       
+        width: 10rem;
+        height: 5rem;
+        justify-content:center !important;
+    
+    
+    }
+    .ivan2{
+       
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .ivan3{
+        
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .imagenes{
+        display: block;
+        width: 80%;
+        height: 80%;
+        
+        margin: auto !important;
+        margin-top: 1rem !important;
+        border-radius: 1rem;
+        border: 5px solid yellow;
+    
+    }
+    .titulo{
+        color: rgb(10, 255, 10);
+        border-bottom: rgb(0, 0, 0) 1rem solid;
+        text-decoration: wavy;
+    }
+    
+    .subtitulo{
+        text-align: center;
+        font-size: 1rem;
+        width: 100%;
+        margin: auto;
+        color: rgb(0, 0, 0);
+        text-decoration:aqua;
+    }
+    .texto{
+        margin: 0 !important;
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        width: 100%;
+        border: 2px solid black;
+        border-radius: 2px;
+        
+    
+    }
+    .superheroes{
+        margin: 0;
+    
+    }
+    .texto2{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+       
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+    
+    }
+    .sonido{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .dross{
+        display: flex;
+        align-items: flex-start;
+        width: 50%;
+        margin: 0 !important;
+    }
+    footer{
+       
+        margin: 0 !important;
+        margin-top: 0 !important;
+        padding: 0 !important;
+        background-color: black;
+    }
+    .git{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 30%;
+        border-radius: 2rem;
+    
+    }
+    .subtitulos{
+        margin-top: 30rem !important;
+        text-align: center;
+        font-size: 2rem;
+        width: 70%;
+        margin: auto;
+        color: rgb(0, 255, 213);
+        text-decoration:aqua;
+    }
+    iframe{
+        display: block;
+        height: 9rem !important;
+        width: 100% !important;
+        margin: auto;
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+        border-top: 1rem rgb(0, 0, 0) solid;
+        border-bottom: 1rem rgb(0, 0, 0) solid;
+    
+    }
+
+}
+@media  (min-width: 500px) and (max-width: 1024px){
+    *{
+        margin: 0;
+        
+    }
+    
+    /* header */
+    
+    body{
+        background-image: url("/img/fondo2.jpeg");
+   background-size: cover ;
+  background-attachment: fixed;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+    
+    }
+    li{
+        width: 100%;
+        justify-content: flex-start;
+
+    
+    
+    }
+    nav{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    ul{
+        
+        list-style-type: none;
+        text-decoration: none;
+        text-align: center;
+        border-style: inset;
+        height: 3rem;
+        width: 100%;
+        font-size: 1rem;
+        background-color: rgb(146, 255, 56);
+        border-radius: 2rem;
+        justify-content: flex-end;
+        padding: 0 !important;
+        
+
+    
+    }
+    .titulo{
+        margin: auto !important;
+        color: rgb(255, 230, 0);
+        text-decoration: wavy;
+        background-color: violet;
+        border-radius: 1rem;
+        border: 2px inset black;
+        font-size: 1rem;
+    }
+    .ivan{
+       
+        width: 10rem;
+        height: 5rem;
+        justify-content:center !important;
+    
+    
+    }
+    .ivan2{
+       
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .ivan3{
+        
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .imagenes{
+        display: block;
+        width: 80%;
+        height: 80%;
+        
+        margin: auto !important;
+        margin-top: 1rem !important;
+        border-radius: 1rem;
+        border: 5px solid yellow;
+    
+    }
+    .titulo{
+        color: rgb(10, 255, 10);
+        border-bottom: rgb(0, 0, 0) 1rem solid;
+        text-decoration: wavy;
+    }
+    
+    .subtitulo{
+        text-align: center;
+        font-size: 1rem;
+        width: 100%;
+        margin: auto;
+        color: rgb(0, 0, 0);
+        text-decoration:aqua;
+    }
+    .texto{
+        margin: 0 !important;
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        width: 100%;
+        border: 2px solid black;
+        border-radius: 2px;
+        
+    
+    }
+    .superheroes{
+        margin: 0;
+    
+    }
+    .texto2{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+       
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+    
+    }
+    .sonido{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .dross{
+        display: flex;
+        align-items: flex-start;
+        width: 50%;
+        margin: 0 !important;
+    }
+    footer{
+       
+        margin: 0 !important;
+        margin-top: 0 !important;
+        padding: 0 !important;
+        background-color: black;
+    }
+    .git{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 30%;
+        border-radius: 2rem;
+    
+    }
+    .subtitulos{
+        margin-top: 30rem !important;
+        text-align: center;
+        font-size: 2rem;
+        width: 70%;
+        margin: auto;
+        color: rgb(0, 255, 213);
+        text-decoration:aqua;
+    }
+    iframe{
+        display: block;
+        height: 9rem !important;
+        width: 100% !important;
+        margin: auto;
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+        border-top: 1rem rgb(0, 0, 0) solid;
+        border-bottom: 1rem rgb(0, 0, 0) solid;
+    
+    }
+
+
+}
+
+
+

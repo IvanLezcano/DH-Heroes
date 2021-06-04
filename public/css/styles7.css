@@ -73,8 +73,11 @@ ul{
     
     margin: auto !important;
     margin-top: 4rem !important;
+    margin-bottom: 3rem !important;
+
     border-radius: 1rem;
     border: 9px solid yellow;
+    animation-duration: 50s !important;
 
 }
 .titulo{

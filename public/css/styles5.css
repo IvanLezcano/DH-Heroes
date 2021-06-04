@@ -56,6 +56,7 @@ ul{
 }
 .superheroes{
     margin: 4rem;
+    animation-duration: 5s !important;
    
 }
 

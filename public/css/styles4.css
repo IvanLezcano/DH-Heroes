@@ -39,6 +39,7 @@ ul{
     display: block;
     text-align: center;
     font-size: 5rem;
+    animation-duration: 10s !important;
 }
 .edesur{
     display: block;
@@ -79,6 +80,7 @@ ul{
     text-align: center;
     font-size: 7rem;
     color: yellow;
+    animation-duration: 20s !important;
 }
 .subtitulo{
     text-align: center;
