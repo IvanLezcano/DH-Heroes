@@ -8,9 +8,8 @@
     
     body{
         background-image: url("/img/fondoserio.jpg");
-        background-repeat: no-repeat;
-        background-size: 100% !important;
-        background-attachment: fixed;
+        background-size: cover ;
+  background-attachment: fixed;
     }
     a{
         text-decoration: none;
@@ -95,6 +94,7 @@
         margin: auto;
         color: blue;
         text-decoration:aqua;
+        border-radius: 0.5rem;
     }
     .texto{
         margin: 2rem;
@@ -200,8 +200,7 @@
     
     body{
         background-image: url("/img/fondoserio.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover ;
         background-attachment: fixed;
     }
     a{
