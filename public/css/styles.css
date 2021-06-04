@@ -34,6 +34,7 @@ ul{
     font-size: 2rem;
     background-color: rgb(146, 255, 56);
     border-radius: 2rem;
+    animation-duration: 4s !important;
 
 }
 .titulo{
@@ -41,14 +42,18 @@ ul{
     display: block;
     text-align: center;
     font-size: 5rem;
-    border-top: rgba(0,0,0,1) solid 1rem;
-    -webkit-text-stroke: 1px blue
+    border-top: rgba(0,0,0,1) solid 2rem;
+    -webkit-text-stroke: 1px blue;
+    animation-duration: 4s !important;
+
 }
 .ivan{
    
     width: 45rem;
     height: 25rem;
     justify-content:center !important;
+    animation-duration: 4s !important;
+
 
 
 }
@@ -56,6 +61,7 @@ ul{
    
     width: 15rem;
     height: 25rem;
+
 
 
 }

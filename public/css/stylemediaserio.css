@@ -1,0 +1,387 @@
+@media  (max-width: 500px){
+    *{
+        margin: 0;
+        
+    }
+    
+    /* header */
+    
+    body{
+        background-image: url("/img/fondoserio.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% !important;
+        background-attachment: fixed;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+    
+    }
+    li{
+        width: 100%;
+        justify-content: flex-start;
+
+    
+    
+    }
+    nav{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    ul{
+        
+        list-style-type: none;
+        text-decoration: none;
+        text-align: center;
+        border-style: inset;
+        height: 3rem;
+        font-size: 1rem;
+        background-color: rgb(146, 255, 56);
+        border-radius: 2rem;
+        justify-content: flex-end;
+        padding: 0 !important;
+        
+
+    
+    }
+    .titulo{
+        margin: auto !important;
+        display: block;
+        text-align: center;
+        font-size: 2rem;
+        border-top: rgba(0,0,0,1) solid 1rem;
+        -webkit-text-stroke: 1px blue
+    }
+    .ivan{
+       
+        width: 10rem;
+        height: 5rem;
+        justify-content:center !important;
+    
+    
+    }
+    .ivan2{
+       
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .ivan3{
+        
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .imagenes{
+        display: flex;
+        align-items: flex-end;
+        justify-content:space-between !important;
+       
+    
+    }
+    .titulo{
+        color: green;
+        border-bottom: rgb(0, 0, 0) 1rem solid;
+        text-decoration: wavy;
+    }
+    
+    .subtitulo{
+        text-align: center;
+        font-size: 1rem;
+        width: 100%;
+        margin: auto;
+        color: blue;
+        text-decoration:aqua;
+    }
+    .texto{
+        margin: 2rem;
+        font-size: 5px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    
+    }
+    .texto2{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+       
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+    
+    }
+    .sonido{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .dross{
+        display: flex;
+        align-items: flex-start;
+        width: 50%;
+        margin: 0 !important;
+    }
+    footer{
+       
+        margin: 0 !important;
+        margin-top: 0 !important;
+        padding: 0 !important;
+        background-color: black;
+    }
+    .git{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 30%;
+        border-radius: 2rem;
+    
+
+    }
+    
+    .fotos1 img{
+        width: 100%;
+       
+        border-radius: 1rem !important;
+    
+    
+    }
+    div{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        margin-left:10px !important;
+    }
+    p {
+        margin: 15px;
+        max-width: 33%;
+        color: yellow;
+        font-size: 12px;
+    }
+    .texto3{
+        display: block;
+        width: 60rem;
+        font-size: 0.8rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        
+        margin: 0;
+    }
+    h3{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+        width: 100%;
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+
+    
+    }
+    .margaret{
+        display: block;
+        margin: auto;
+        width: 50%;
+        border-radius: 1rem;
+    }
+
+
+}
+@media  (min-width: 500px) and (max-width: 1024px){
+    *{
+        margin: 0;
+        
+    }
+    
+    /* header */
+    
+    body{
+        background-image: url("/img/fondoserio.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+    
+    }
+    li{
+        width: 100%;
+        justify-content: flex-start;
+
+    
+    
+    }
+    nav{
+        display: flex;
+        justify-content: center;
+
+    }
+    ul{        margin: 0 !important;
+
+        
+        list-style-type: none;
+        text-decoration: none;
+        text-align: center;
+        border-style: inset;
+        height: 3rem;
+        font-size: 1rem;
+        background-color: rgb(146, 255, 56);
+        border-radius: 2rem;
+        justify-content: flex-end;
+        padding: 0 !important;
+        width: 100%;
+
+        
+
+    
+    }
+    .titulo{
+        margin: auto !important;
+        display: block;
+        text-align: center;
+        font-size: 4rem;
+        border-top: rgba(0,0,0,1) solid 1rem;
+        -webkit-text-stroke: 1px blue
+    }
+    .ivan{
+       
+        width: 10rem;
+        height: 5rem;
+        justify-content:center !important;
+    
+    
+    }
+    .ivan2{
+       
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .ivan3{
+        
+        width: 10rem;
+        height: 10rem;
+    
+    
+    }
+    .imagenes{
+        display: flex;
+        align-items: flex-end;
+        justify-content:space-between !important;
+       
+    
+    }
+    .titulo{
+        color: green;
+        border-bottom: rgb(0, 0, 0) 1rem solid;
+        text-decoration: wavy;
+    }
+    
+    .subtitulo{
+        text-align: center;
+        font-size: 1rem;
+        width: 100%;
+        margin: auto;
+        color: blue;
+        text-decoration:aqua;
+    }
+    .texto{
+        margin: 2rem;
+        font-size: 5px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    
+    }
+    .texto2{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+       
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+    
+    }
+    .sonido{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .dross{
+        display: flex;
+        align-items: flex-start;
+        width: 50%;
+        margin: 0 !important;
+    }
+    footer{
+       
+        margin: 0 !important;
+        margin-top: 0 !important;
+        padding: 0 !important;
+        background-color: black;
+    }
+    .git{
+        margin: auto;
+        display: block;
+        align-items: center;
+        width: 30%;
+        border-radius: 2rem;
+    
+
+    }
+    
+    .fotos1 img{
+        width: 100%;
+       
+        border-radius: 1rem !important;
+    
+    
+    }
+    div{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        margin-left:32px !important;
+    }
+    p {
+        margin: 15px;
+        max-width: 33%;
+        color: yellow;
+        font-size: 20px;
+    }
+  .texto3{
+        display: block;
+        width: 130rem;
+        font-size: 0.8rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        
+        margin: 0;
+    }
+    h3{
+        border-top: 2rem solid black;
+        border-bottom: 2rem solid black;
+        width: 100%;
+        font-size: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: white;
+
+    
+    }
+    .margaret{
+        display: block;
+        margin: auto;
+        width: 20%;
+        border-radius: 1rem;
+    }
+
+
+}
