@@ -16,6 +16,7 @@ app.get("/hamilton",(req,res) => res.sendFile(path.join(views,"hamilton.html")))
 app.get("/hopper",(req,res) => res.sendFile(path.join(views,"hopper.html")))
 app.get("/lovelace",(req,res) => res.sendFile(path.join(views,"lovelace.html")))
 app.get("/turing",(req,res) => res.sendFile(path.join(views,"turing.html")))
+app.get("/trabajo-serio",(req,res) => res.sendFile(path.join(views,"trabajo-serio.html")))
 
 
 

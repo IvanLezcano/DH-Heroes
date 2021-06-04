@@ -6,8 +6,8 @@
 /* header */
 
 body{
-    background: rgb(255,0,0);
-    background: linear-gradient(90deg, rgba(255,0,0,1) 20%, rgba(241,255,0,1) 67%, rgba(241,255,0,1) 86%);
+    background: rgb(0,202,255);
+background: linear-gradient(90deg, rgba(0,202,255,1) 50%, rgba(255,252,0,1) 100%);
 }
 a{
     margin: auto;
@@ -41,8 +41,7 @@ ul{
     display: block;
     text-align: center;
     font-size: 5rem;
-    border-top: rgba(0,0,0,1) solid 1rem;
-    -webkit-text-stroke: 1px blue
+    border-top: rgba(0,0,0,1) solid 1rem
 }
 .ivan{
    
@@ -70,7 +69,6 @@ ul{
     display: flex;
     align-items: flex-end;
     justify-content:space-between !important;
-   
 
 }
 .titulo{
@@ -130,4 +128,9 @@ footer{
     width: 30%;
     border-radius: 3rem;
 
+}
+iframe{
+    display: block;
+    width: 60%;
+    margin: auto;
 }

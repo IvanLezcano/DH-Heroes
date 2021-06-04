@@ -6,8 +6,7 @@
 /* header */
 
 body{
-    background: rgb(255,0,0);
-    background: linear-gradient(90deg, rgba(255,0,0,1) 20%, rgba(241,255,0,1) 67%, rgba(241,255,0,1) 86%);
+background: linear-gradient(90deg, rgba(255,0,0,0) 0%, rgba(0,232,255,1) 100%);
 }
 a{
     margin: auto;
@@ -17,7 +16,6 @@ a{
 li{
     margin: auto;
 
-    border-radius: 1rem red solid;
 
 }
 ul{
@@ -37,32 +35,31 @@ ul{
 
 }
 .titulo{
-    margin: auto !important;
+    margin-top: 2rem !important;
     display: block;
     text-align: center;
     font-size: 5rem;
-    border-top: rgba(0,0,0,1) solid 1rem;
-    -webkit-text-stroke: 1px blue
 }
-.ivan{
-   
-    width: 45rem;
-    height: 25rem;
+.edesur{
+    display: block;
+    width: 30%;
+    height: 30%;
+    margin: auto;
     justify-content:center !important;
 
 
 }
-.ivan2{
+.com2{
    
-    width: 15rem;
-    height: 25rem;
+    width: 50%;
+    height: 20%;
 
 
 }
-.ivan3{
+.com1{
     
-    width: 15rem;
-    height: 25rem;
+    width: 50%;
+    height: 20%;
 
 
 }
@@ -70,15 +67,19 @@ ul{
     display: flex;
     align-items: flex-end;
     justify-content:space-between !important;
-   
 
 }
 .titulo{
     color: green;
-    border-bottom: rgb(0, 0, 0) 1rem solid;
     text-decoration: wavy;
 }
-
+.titulo2{
+    margin-top: 2rem !important;
+    display: block;
+    text-align: center;
+    font-size: 7rem;
+    color: yellow;
+}
 .subtitulo{
     text-align: center;
     font-size: 4.5rem;
@@ -95,8 +96,6 @@ ul{
 
 }
 .texto2{
-    border-top: 5rem solid black;
-    border-bottom: 5rem solid black;
    
     font-size: 3rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -119,7 +118,7 @@ ul{
 footer{
    
     margin: 0 !important;
-    margin-top: 0 !important;
+    margin-top: 3rem !important;
     padding: 0 !important;
     background-color: black;
 }
